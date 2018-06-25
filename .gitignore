@@ -1,0 +1,6 @@
+*.exe
+*.lib
+*.selections.json
+*.userprefs
+.dub
+app.d
