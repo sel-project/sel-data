@@ -43,10 +43,10 @@ struct Enchantment {
 enum Enchantments : Enchantment {
 
 	aquaAffinity = Enchantment("aqua_affinity", Data(true, 8), Data(true, 6), 1, 2),
-	baneofArthropods = Enchantment("bane_of_arthropods", Data(true, 11), Data(true, 18), 5, 5),
+	baneOfArthropods = Enchantment("bane_of_arthropods", Data(true, 11), Data(true, 18), 5, 5),
 	blastProtection = Enchantment("blast_protection", Data(true, 3), Data(true, 3), 4, 2),
-	curseofBinding = Enchantment("curse_of_binding", Data(false), Data(true, 10), 1, 1),
-	curseofVanishing = Enchantment("curse_of_vanishing", Data(false), Data(true, 71), 1, 1),
+	curseOfBinding = Enchantment("curse_of_binding", Data(false), Data(true, 10), 1, 1),
+	curseOfVanishing = Enchantment("curse_of_vanishing", Data(false), Data(true, 71), 1, 1),
 	depthStrider = Enchantment("depth_strider", Data(true, 7), Data(true, 8), 3, 2),
 	efficiency = Enchantment("efficiency", Data(true, 15), Data(true, 32), 5, 10),
 	featherFalling = Enchantment("feather_falling", Data(true, 2), Data(true, 2), 4, 5),
@@ -58,7 +58,7 @@ enum Enchantments : Enchantment {
 	infinity = Enchantment("infinity", Data(true, 22), Data(true, 51), 1, 1),
 	knockback = Enchantment("knockback", Data(true, 12), Data(true, 19), 2, 5),
 	looting = Enchantment("looting", Data(true, 14), Data(true, 21), 3, 2),
-	luckoftheSea = Enchantment("luck_of_the_sea", Data(true, 23), Data(true, 61), 3, 2),
+	luckOfTheSea = Enchantment("luck_of_the_sea", Data(true, 23), Data(true, 61), 3, 2),
 	lure = Enchantment("lure", Data(true, 24), Data(true, 62), 3, 2),
 	mending = Enchantment("mending", Data(true, 26), Data(true, 70), 1, 2),
 	power = Enchantment("power", Data(true, 19), Data(true, 48), 5, 10),
