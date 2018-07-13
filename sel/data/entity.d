@@ -43,6 +43,6 @@ struct Entity {
 
 enum Entities : Entity {
 
-
+	dummy = Entity.init
 
 }

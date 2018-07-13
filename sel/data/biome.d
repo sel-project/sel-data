@@ -20,28 +20,18 @@
  * SOFTWARE.
  *
  */
-module sel.data.effect;
+module sel.data.biome;
 
-private struct Data {
-
-	bool exists;
-	string nameId;
-	ubyte id;
-
-	alias exists this;
-
-}
-
-struct Effect {
+struct Biome {
 
 	string name;
-	Data bedrock, java;
-	uint particles;
+	ubyte id;
+	float temperature;
 
 }
 
-enum Effects : Effect {
+enum Biomes {
 
-	dummy = Effect.init
+	dummy = Biome.init
 
 }
