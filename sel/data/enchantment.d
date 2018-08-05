@@ -72,9 +72,9 @@ enum Enchantments : Enchantment {
 	sweepingEdge = Enchantment("sweeping_edge", Data(false), Data(true, 22), 3, 2),
 	thorns = Enchantment("thorns", Data(true, 5), Data(true, 7), 3, 1),
 	unbreaking = Enchantment("unbreaking", Data(true, 17), Data(true, 34), 3, 5),
-	loyalty = Enchantment("loyalty", Data(false), Data(true, 65), 3, 0),
-	impaling = Enchantment("impaling", Data(false), Data(true, 66), 5, 0),
-	riptide = Enchantment("riptide", Data(false), Data(true, 67), 3, 0),
-	channeling = Enchantment("channeling", Data(false), Data(true, 68), 1, 0),
+	loyalty = Enchantment("loyalty", Data(true, 31), Data(true, 65), 3, 5),
+	impaling = Enchantment("impaling", Data(true, 29), Data(true, 66), 5, 2),
+	riptide = Enchantment("riptide", Data(true, 30), Data(true, 67), 3, 2),
+	channeling = Enchantment("channeling", Data(true, 32), Data(true, 68), 1, 1),
 
 }
