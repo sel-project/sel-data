@@ -20,6 +20,12 @@
  * SOFTWARE.
  *
  */
+/**
+ * Copyright: Copyright (c) 2018 sel-project
+ * License: MIT
+ * Authors: Kripth
+ * Source: $(HTTP github.com/sel-project/sel-data/sel/data/util.d, sel/data/util.d)
+ */
 module sel.data.util;
 
 struct Data(T) {

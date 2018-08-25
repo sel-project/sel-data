@@ -20,6 +20,12 @@
  * SOFTWARE.
  *
  */
+/**
+ * Copyright: Copyright (c) 2018 sel-project
+ * License: MIT
+ * Authors: Kripth
+ * Source: $(HTTP github.com/sel-project/sel-data/sel/data/enchantment.d, sel/data/enchantment.d)
+ */
 module sel.data.enchantment;
 
 private struct Data {

@@ -20,6 +20,12 @@
  * SOFTWARE.
  *
  */
+/**
+ * Copyright: Copyright (c) 2018 sel-project
+ * License: MIT
+ * Authors: Kripth
+ * Source: $(HTTP github.com/sel-project/sel-data/sel/data/entity.d, sel/data/entity.d)
+ */
 module sel.data.entity;
 
 private struct Data {

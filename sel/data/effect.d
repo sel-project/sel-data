@@ -20,6 +20,12 @@
  * SOFTWARE.
  *
  */
+/**
+ * Copyright: Copyright (c) 2018 sel-project
+ * License: MIT
+ * Authors: Kripth
+ * Source: $(HTTP github.com/sel-project/sel-data/sel/data/effect.d, sel/data/effect.d)
+ */
 module sel.data.effect;
 
 private struct Data {
